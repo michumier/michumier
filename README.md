@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Michumier! 👋
 
-<!--
-**michumier/michumier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Software Developer** with a passion for creating innovative solutions.
+- 🌱 **Always learning** new technologies and improving my skills.
+- 🎓 **Educational Background**: Software Engineering
+- 🌍 **Location**: Oviedo, Asturias
+
+## 🔧 Technologies & Tools
+
+- **Programming Languages**: Java, C#, Python
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **DevOps**: Docker
+- **Version Control**: Git, GitHub
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=michumier&layout=compact&theme=radical)
+
+## 🌟 Projects
+
+Here are some of the projects I've been working on:
+
+- [**Project 1**](https://github.com/michumier/linear-regression): Little project for the prevision of temperature with linear regression.
+- [**Project 2**](https://github.com/michumier/Antojitos): Android app similar to Tripadvisor.
+
+
+Thanks for visiting my profile! Have a great day! 😊
